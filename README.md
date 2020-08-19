@@ -23,6 +23,7 @@
 - [Qiita](https://qiita.com/yuya_yuzen)
 - [AtCoder](https://atcoder.jp/users/yuya_yuzen)
 - [note](https://note.com/yuya_yuzen)
+- [Blog](https://yuya-yuzen.com)
 
 <!--
 **yuya-yuzen/yuya-yuzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
