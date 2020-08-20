@@ -20,10 +20,16 @@
 ## リンク
 
 - [Twitter](https://twitter.com/yuya_yuzen)
-- [Qiita](https://qiita.com/yuya_yuzen)
 - [AtCoder](https://atcoder.jp/users/yuya_yuzen)
 - [note](https://note.com/yuya_yuzen)
 - [Blog](https://yuya-yuzen.com)
+
+## Qiita
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/yuya_yuzen/posts.svg)](http://qiita.com/yuya_yuzen)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yuya_yuzen/contributions.svg)](http://qiita.com/yuya_yuzen)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/yuya_yuzen/followers.svg)](http://qiita.com/yuya_yuzen)
+                
 
 <!--
 **yuya-yuzen/yuya-yuzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
