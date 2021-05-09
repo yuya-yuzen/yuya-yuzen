@@ -21,6 +21,7 @@
 
 - [Twitter](https://twitter.com/yuya_yuzen)
 - [AtCoder](https://atcoder.jp/users/yuya_yuzen)
+- [Zenn](https://zenn.dev/yuya_yuzen)
 - [note](https://note.com/yuya_yuzen)
 - [Blog](https://yuya-yuzen.com)
 
