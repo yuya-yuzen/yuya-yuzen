@@ -8,10 +8,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuya-yuzen&layout=compact" alt="top-langs" />
 
-## 📝 Articles
+## 📝 Articles & Scraps
 
 [![Articles](https://badgen.org/img/qiita/yuya_yuzen/articles?style=for-the-badge)](https://qiita.com/yuya_yuzen)
 [![Contributions](https://badgen.org/img/qiita/yuya_yuzen/contributions?style=for-the-badge)](https://qiita.com/yuya_yuzen)
+
+[![Scraps](https://badgen.org/img/zenn/yuya_yuzen/scraps?style=for-the-badge)](https://zenn.dev/yuya_yuzen?tab=scraps)
+[![Likes](https://badgen.org/img/zenn/yuya_yuzen/likes?style=for-the-badge)](https://zenn.dev/yuya_yuzen)
 
 ## 🤝 Connect with me
 
